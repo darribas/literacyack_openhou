@@ -1,5 +1,5 @@
 % Mapping team
-% <a href=''> [Literacy Hack Day] </a>
+% <a href='http://www.meetup.com/Open-Houston/events/176426522/'> [Literacy Hack Day] </a>
 % Houston Public Library
 
 # Input
@@ -20,7 +20,7 @@ src="https://docs.google.com/spreadsheets/d/11WSPjklTh0H2Pq04Km_dibKxHl_yVflTvg2
 
 <iframe
 src="http://www.maptive.com/ver3/7e816599e3a0a60b2704bb4a09ea82a3"
-frameborder="0" width="100%" height="500"></iframe>
+frameborder="0" width="100%" height="600"></iframe>
 
 # Option B - CartoDB
 
@@ -32,7 +32,7 @@ frameborder="0" width="100%" height="500"></iframe>
 
 ## 
 
-<iframe width='100%' height='520' frameborder='0'
+<iframe width='100%' height='600' frameborder='0'
 src='http://bilo23.cartodb.com/viz/fa149efc-ee6d-11e3-a4fc-0e10bcd91c2b/embed_map?title=true&description=true&search=false&shareable=true&cartodb_logo=true&layer_selector=true&legends=false&scrollwheel=true&fullscreen=true&sublayer_options=1%7C1%7C1&sql=&sw_lat=27.178027987875677&sw_lon=-102.68852233886719&ne_lat=32.242164656440316&ne_lon=-87.85697937011719'
 allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen
 msallowfullscreen></iframe>
