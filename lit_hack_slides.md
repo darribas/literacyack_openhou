@@ -37,4 +37,12 @@ src='http://bilo23.cartodb.com/viz/fa149efc-ee6d-11e3-a4fc-0e10bcd91c2b/embed_ma
 allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen
 msallowfullscreen></iframe>
 
+# Credits
 
+These slides are hosted as a GitHub open repository on the following [url](https://github.com/darribas/literacyack_openhou/):
+
+    https://github.com/darribas/literacyack_openhou/
+
+And can be accessed online from [this other one](http://darribas.org/literacyack_openhou):
+
+    http://darribas.org/literacyack_openhou
